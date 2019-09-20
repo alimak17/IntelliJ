@@ -17,10 +17,27 @@
   <action id=":cursive.actions.paredit/split">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id=":cursive.repl.actions/jump-to-repl">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id=":cursive.repl.actions/run-last-sexp">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="CheckinProject" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Git.Commit.And.Push.Executor" />
   <action id="InsertLiveTemplate" />
+  <action id="Replace" />
   <action id="SaveAll" />
   <action id="ShowSettings" />
   <action id="SurroundWithLiveTemplate" />
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
