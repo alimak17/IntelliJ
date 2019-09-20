@@ -1,0 +1,26 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id=":cursive.actions.paredit/barf-backwards">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id=":cursive.actions.paredit/join">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="InsertLiveTemplate" />
+  <action id="SaveAll" />
+  <action id="ShowSettings" />
+  <action id="SurroundWithLiveTemplate" />
+</keymap>
