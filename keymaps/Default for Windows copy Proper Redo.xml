@@ -5,10 +5,10 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id=":cursive.actions.paredit/barf-backwards">
-    <keyboard-shortcut first-keystroke="ctrl alt j" />
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
   <action id=":cursive.actions.paredit/barf-forwards">
-    <keyboard-shortcut first-keystroke="ctrl alt k" />
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
   <action id=":cursive.actions.paredit/join">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
@@ -34,6 +34,7 @@
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="CallHierarchy" />
   <action id="CheckinProject" />
   <action id="EditorDeleteLine" />
   <action id="FindNext">
@@ -46,6 +47,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="ShowSettings" />
+  <action id="SurroundWith" />
   <action id="SurroundWithLiveTemplate" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
