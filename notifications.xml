@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Key Promoter X" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Key Promoter X" displayType="TOOL_WINDOW" shouldLog="false" />
   </component>
 </application>
