@@ -17,7 +17,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.less</mask>
-    <mask>*.cljs</mask>
     <mask>*.clj</mask>
+    <mask>*.cljs</mask>
   </component>
 </application>
